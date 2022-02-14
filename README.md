@@ -1,4 +1,3 @@
-# js-basics
 Javascript - Les bases
 
 ## Canvas
