@@ -4,7 +4,7 @@ Javascript - Les bases
 ## Canvas
 - Exemple basique : [https://github.com/eric-murat/js-canvas-01](https://github.com/eric-murat/js-canvas-01)
 ### Elément Canvas en HTML
-Placer cet élément dans le body :
+Placer cet élément dans le body de index.html :
 ```js
 <canvas width="1000px" height="500px" id="canvas"></canvas>
 ```
