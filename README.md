@@ -3,6 +3,7 @@ Javascript - Les bases
 
 ## Canvas
 - Exemple basique : [https://github.com/eric-murat/js-canvas-01](https://github.com/eric-murat/js-canvas-01)
+
 ### Elément Canvas en HTML
 Placer cet élément dans le body de index.html :
 ```js
@@ -45,4 +46,6 @@ cnv.addEventListener("mousemove",function(e) {
 https://www.youtube.com/watch?v=PIU_2SBSZgw&list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw
 
 ## Docs
-https://devdocs.io/javascript/
+- Javascript : https://devdocs.io/javascript/
+- Canvas : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas
+
